@@ -1,7 +1,7 @@
 ---
 applications:
 - name: robotwhl
-  path: target/robotwhl-0.0.1.war
+  path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
     CONVERSATION_WORKSPACE_ID: e4b135b1-898b-4d5a-ba87-6844d38808de
